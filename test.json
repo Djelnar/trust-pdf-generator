@@ -1,0 +1,80 @@
+{
+  "trustAnalytics": {
+    "trust_score": 40,
+    "mod_trust_score": 0,
+    "user_id": 297834255,
+    "report_creation_date": 1704163111,
+    "verdict": "CertifiedStage",
+    "factors": [
+      {
+        "sampler": "age",
+        "score": 25,
+        "additional_score": 0,
+        "max_score": 35
+      },
+      {
+        "sampler": "avatar",
+        "score": 14,
+        "additional_score": 0,
+        "max_score": 34
+      },
+      {
+        "sampler": "profile",
+        "score": 1,
+        "additional_score": 0,
+        "max_score": 44
+      }
+    ],
+    "correction_version": 415,
+    "issuer": {
+      "id": "b295e7df-8807-4ba3-80cf-10658064c5db",
+      "report": {
+        "id": "uxROdqeyud0=",
+        "discover": {
+          "message_id": 0,
+          "user_id": 297834255
+        },
+        "trust_report": {
+          "user_id": 297834255,
+          "report_record_id": "uxROdqeyud0=",
+          "id": "71185485-097e-4ad3-8205-0bb700648239",
+          "factors": [
+            {
+              "sampler": "age",
+              "score": 25,
+              "additional_score": 0,
+              "max_score": 35
+            },
+            {
+              "sampler": "avatar",
+              "score": 14,
+              "additional_score": 0,
+              "max_score": 34
+            },
+            {
+              "sampler": "profile",
+              "score": 1,
+              "additional_score": 0,
+              "max_score": 44
+            }
+          ],
+          "report_creation_date": 1704163111,
+          "verdict": "CertifiedStage"
+        },
+        "user_id": 297834255,
+        "raw_message_id": 0,
+        "issuer_id": "b295e7df-8807-4ba3-80cf-10658064c5db"
+      },
+      "report_id": "uxROdqeyud0=",
+      "kind": "FromMiniApp"
+    }
+  },
+  "profilePic": "https://fakeimg.pl/100x100/cccccc/909090?text=YAW",
+  "contextId": "string",
+  "user": {
+    "first_name": "string",
+    "last_name": "string",
+    "username": "string",
+    "id": "string"
+  }
+}
